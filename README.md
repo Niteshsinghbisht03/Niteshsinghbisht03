@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niteshsinghbisht03" alt="niteshsinghbisht03" /></a> </p>
 
-- 🔭 I’m currently working on **Image Processing and Classification**
+- 🔭 I’m currently working on **Image Processing ,Classification and Natural Language Processing**
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Large Language Models and LangChain**
 
-- 💬 Ask me about **React,ML**
+- 💬 Ask me about **React,ML,Deep Learning**
 
 - 📫 How to reach me **niteshsinghbisht1200@gmail,com**
 
