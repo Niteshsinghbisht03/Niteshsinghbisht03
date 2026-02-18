@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nitesh Singh Bisht</h1>
 <h3 align="center">A passionate Machine Learning Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=niteshsinghbisht03&label=Profile%20views&color=0e75b6&style=flat" alt="niteshsinghbisht03" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=niteshsinghbisht03" alt="niteshsinghbisht03" /></a> </p>
 
 - 🔭 I’m currently working on **Image Processing ,Classification and Natural Language Processing**
